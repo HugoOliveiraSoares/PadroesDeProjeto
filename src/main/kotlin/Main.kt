@@ -1,5 +1,8 @@
+import factoryMethod.padraoFactory
 
 fun main() {
-    println("Hello, World!")
+
+    padraoFactory()
+
 }
 
