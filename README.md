@@ -17,7 +17,7 @@ Códigos fontes dos três padrões de software estudados durante a disciplina de
 ```
 
 
-## [Projeto no Replit](https://replit.com/@HugoOliveiraSoa/PadroesDeProjeto#src/test/kotlin/br/com/emge/hugo/HelloTest.kt)
+## [Projeto no Replit](https://replit.com/@HugoOliveiraSoa/PadroesDeProjeto)
 
 ## Aluno:
 Hugo Oliveira Soares
